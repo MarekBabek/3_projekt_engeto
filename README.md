@@ -81,7 +81,7 @@ Stahuji data ze zadaneho url: "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkr
 
 Ukladam do souboru: Kladno.csv
 
-Soubor: Kladno.csv je hotovy ve Vasem adresari
+Soubor Kladno.csv je hotovy ve Vasem adresari
 
 Ukoncuji program: election_scrapper
 
