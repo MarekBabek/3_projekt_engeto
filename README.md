@@ -25,8 +25,8 @@ Co je conda + instalace: [Instalace](https://docs.conda.io/en/latest/miniconda.h
 Conda prikazy ve zkratce: [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
 V conda cheatsheet, je jednoduše popsán každý krok:
-založení virtuálního prostředí: conda create --name virtualní_prostredi2 python
-aktivace: conda activate virtualní_prostredi2
-nahrání knihovny: conda install beautifulsoup4 ... nebo .... conda install requests ... atd.
-zjištění aktuálních knihoven a jejich verzí: conda list
-deaktivace: conda deactivate
+  založení virtuálního prostředí: conda create --name virtualní_prostredi2 python
+  aktivace: conda activate virtualní_prostredi2
+  nahrání knihovny: conda install beautifulsoup4 ... nebo .... conda install requests ... atd.
+  zjištění aktuálních knihoven a jejich verzí: conda list
+  deaktivace: conda deactivate
