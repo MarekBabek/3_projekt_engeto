@@ -79,9 +79,9 @@ python3 election_scrapper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkra
 
 Získávám data z url: "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103"
 
-Ukládám do souboru: Kladno_nazev
+Soubor: Kladno_nazev je hotovy ve Vasem adresari
 
-Hotovo, soubor csv je ulozen...
+Ukoncuji program: election_scrapper
 
 # Část výstupu programu (Kladno.csv)
 
