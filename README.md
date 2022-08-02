@@ -64,7 +64,7 @@ pip3 install -r requirements.txt
 conda install --file requirements.txt
 ```
 
-# Spustění programu
+# Spuštění programu
 
 ### Program election_scrapper.py požaduje 2 argumenty ke spuštění
 ```
@@ -73,7 +73,7 @@ conda install --file requirements.txt
 2. argument: Váš název csv souboru (např. Kladno_nazev): "Kladno.csv"
 ```
 
-# Ukázka spuštění:
+### Ukázka spuštění:
 
 python3 election_scrapper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103" "Kladno.csv"
 
