@@ -3,9 +3,6 @@ Program election_scrapper.py slouží k extrahování výsledku voleb 2017 (odka
 
 Doporučuji vytvořit si čisté/nové virtuální prostředí pro tento projekt.
 
-
-
-
 # Vytvoření virtuálního prostředí
 
 ### Vytvoření příkazem pip:
