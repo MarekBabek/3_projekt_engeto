@@ -30,6 +30,7 @@ V conda cheatsheet, je jednoduše popsán každý krok:
   nahrání knihovny: conda install beautifulsoup4 ... nebo .... conda install requests ... atd.
   zjištění aktuálních knihoven a jejich verzí: conda list
   deaktivace: conda deactivate
+  
 
 
 
