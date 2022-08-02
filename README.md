@@ -32,7 +32,14 @@ V conda cheatsheet, je jednoduše popsán každý krok:
 - zjištění aktuálních knihoven a jejich verzí: conda list
 - deaktivace: conda deactivate
   
+## Nahrání souboru s knihovnami (requirements.txt)
+Do nově vytvořeného virtuálního prostředí je potřeba nahrát soubor (requirements.txt), který obsahuje soupis všech knihoven a jejich verzí, které jsou v programu použity.
 
+Pro nahrání requirements.txt zadejte do terminálu:
+- pip3 install -r requirements.txt
 
+conda install --file requirements.txt
+- Nápověda příkazu pip: ( pip install --help )
+- Nápověda příkazu conda: ( conda install --help )
 
 
