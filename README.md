@@ -12,7 +12,7 @@ Ve Vámi zvoleném IDE, pro vytvoření nového virtuálního prostředí, si ot
 - (vytvoření virtuálního prostředí s názvem: virtualni_prostredi)
 
 
-> C:\> virtualni_prostredi\Scripts\activate (- (aktivace nového virtuálního prostředí))
+> C:\> virtualni_prostredi\Scripts\activate < - (aktivace nového virtuálního prostředí))
 
 > (virtualni_prostredi) C:\>  pip3 --version
 - (začátek řádku značí, které virtuální prostředí je právě aktivní + příkaz pro zjištění verze)
