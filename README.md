@@ -1,5 +1,5 @@
 # 3. projekt_engeto
-Program election_scrapper.py slouží k extrahování výsledku voleb 2017 (odkaz [zde](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)).
+Program election_scrapper.py slouží k extrahování výsledků voleb z roku 2017 (odkaz k prohlédnutí najdete [zde](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)).
 
 Doporučuji vytvořit si čisté/nové virtuální prostředí pro tento projekt.
 
