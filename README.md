@@ -70,18 +70,18 @@ conda install --file requirements.txt
 ```
 1. argument: url daného okresu (např. Kladno): "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103"
 
-2. argument: Váš název csv souboru (např. Kladno_nazev): "Kladno_nazev.csv"
+2. argument: Váš název csv souboru (např. Kladno_nazev): "Kladno.csv"
 ```
 
 # Ukázka spuštění:
 
-python3 election_scrapper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103" "Kladno_nazev.csv"
+python3 election_scrapper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103" "Kladno.csv"
 
 Stahuji data ze zadaneho url: "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103"
 
-Ukladam do souboru: Kladno_nazev.csv
+Ukladam do souboru: Kladno.csv
 
-Soubor: Kladno_nazev.csv je hotovy ve Vasem adresari
+Soubor: Kladno.csv je hotovy ve Vasem adresari
 
 Ukoncuji program: election_scrapper
 
