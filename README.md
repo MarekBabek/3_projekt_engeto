@@ -8,16 +8,16 @@ Doporučuji vytvořit si čisté/nové virtuální prostředí pro tento projekt
 ### Vytvoření příkazem pip:
 Ve Vámi zvoleném IDE, pro vytvoření nového virtuálního prostředí, si otevřeme terminál a zadáme následovné:
 
-- C:\> python -m venv virtualni_prostredi
+> C:\> python -m venv virtualni_prostredi
 - (vytvoření virtuálního prostředí s názvem: virtualni_prostredi)
 ...
-- C:\> virtualni_prostredi\Scripts\activate
+> C:\> virtualni_prostredi\Scripts\activate
 - (aktivace nového virtuálního prostředí)
 ...
-- (virtualni_prostredi) C:\>  pip3 --version
+> (virtualni_prostredi) C:\>  pip3 --version
 - (začátek řádku značí, které virtuální prostředí je právě aktivní + příkaz pro zjištění verze)
 ...
-- pip 21.2.3 from ...\lib\site-packages\pip (python 3.10)
+> pip 21.2.3 from ...\lib\site-packages\pip (python 3.10)
 - (verze příkazu pip)
 
 ### Doporučuji vytvoření příkazem conda:
