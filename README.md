@@ -29,21 +29,21 @@ Conda prikazy ve zkratce: [conda cheatsheet](https://docs.conda.io/projects/cond
 
 V conda cheatsheet, je jednoduše popsán každý krok:
 
-- založení virtuálního prostředí: conda create --name virtualní_prostredi2 python
-- aktivace: conda activate virtualní_prostredi2
-- nahrání knihovny: conda install beautifulsoup4 ... nebo .... conda install requests ... atd.
-- zjištění aktuálních knihoven a jejich verzí: conda list
-- deaktivace: conda deactivate
+- založení virtuálního prostředí: > conda create --name virtualní_prostredi2 python
+- aktivace: > conda activate virtualní_prostredi2
+- nahrání knihovny: > conda install beautifulsoup4 ... nebo .... conda install requests ... atd.
+- zjištění aktuálních knihoven a jejich verzí: > conda list
+- deaktivace: > conda deactivate
   
 # Nahrání souboru s knihovnami (requirements.txt)
 Do nově vytvořeného virtuálního prostředí je potřeba nahrát soubor (requirements.txt), který obsahuje soupis všech knihoven a jejich verzí, které jsou v programu použity.
 
 Pro nahrání requirements.txt zadejte do terminálu:
-- pip3 install -r requirements.txt
+> pip3 install -r requirements.txt
 
 conda install --file requirements.txt
-- Nápověda příkazu pip: ( pip install --help )
-- Nápověda příkazu conda: ( conda install --help )
+- Nápověda příkazu pip: > pip install --help
+- Nápověda příkazu conda: > conda install --help
 
 
 # Spustění programu
