@@ -28,6 +28,7 @@ Conda prikazy ve zkratce: [conda cheatsheet](https://docs.conda.io/projects/cond
 
 
 V conda cheatsheet, je jednoduše popsán každý krok:
+
 > conda create --name virtualní_prostredi2 python
 - založení virtuálního prostředí
 
