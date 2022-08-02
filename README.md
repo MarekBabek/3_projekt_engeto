@@ -22,10 +22,9 @@ Ve Vámi zvoleném IDE, pro vytvoření nového virtuálního prostředí, si ot
 
 ### Doporučuji vytvoření příkazem conda:
 
-###### Co je conda + instalace: [Zde](https://docs.conda.io/en/latest/miniconda.html).
+Co je conda + instalace: [Zde](https://docs.conda.io/en/latest/miniconda.html).
 
-###### Conda prikazy ve zkratce: [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
-
+Conda prikazy ve zkratce: [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
 
 V conda cheatsheet, je jednoduše popsán každý krok:
 
@@ -45,6 +44,7 @@ V conda cheatsheet, je jednoduše popsán každý krok:
 - deaktivace
   
 # Nahrání souboru s knihovnami (requirements.txt)
+
 Do nově vytvořeného virtuálního prostředí je potřeba nahrát soubor (requirements.txt), který obsahuje soupis všech knihoven a jejich verzí, které jsou v programu použity.
 
 Pro nahrání requirements.txt zadejte do terminálu:
