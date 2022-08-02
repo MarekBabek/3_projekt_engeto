@@ -7,6 +7,9 @@ Doporučuji vytvořit si čisté/nové virtuální prostředí pro tento projekt
 
 ### Vytvoření příkazem pip:
 Ve Vámi zvoleném IDE, pro vytvoření nového virtuálního prostředí, si otevřeme terminál a zadáme následovné:
+
+- Nápověda příkazu pip: > pip install --help
+
 ```
 C:\> python -m venv virtualni_prostredi
 (vytvoření virtuálního prostředí s názvem: virtualni_prostredi)
@@ -28,6 +31,8 @@ Co je conda: [Zde](https://docs.conda.io/en/latest/).
 Instalace: [Zde](https://docs.conda.io/en/latest/miniconda.html).
 
 Conda příkazy ve zkratce: [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
+
+- Nápověda příkazu conda: > conda install --help
 
 V conda cheatsheet, je jednoduše popsán každý krok:
 
@@ -59,17 +64,13 @@ pip3 install -r requirements.txt
 conda install --file requirements.txt
 ```
 
-- Nápověda příkazu pip: > pip install --help
-- Nápověda příkazu conda: > conda install --help
-
-
 # Spustění programu
 
 ### Program election_scrapper.py požaduje 2 argumenty ke spuštění
 ```
-- 1. argument - url daného okresu (např. Beroun): "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102"
+1. argument - url daného okresu (např. Beroun): "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102"
 
-- 2. argument - Váš název csv souboru (např. Beroun_nazev): "Beroun_nazev.csv"
+2. argument - Váš název csv souboru (např. Beroun_nazev): "Beroun_nazev.csv"
 ```
 
 # Ukázka spuštění:
