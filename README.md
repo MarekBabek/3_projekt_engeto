@@ -16,7 +16,7 @@ Ve Vámi zvoleném IDE, pro vytvoření nového virtuálního prostředí, si ot
 
 - '1. Řádek' - vytvoření virtuálního prostředí s názvem: virtualni_prostredi
 - '2. Řádek' - aktivace nového virtuálního prostředí
-- '3. Řádek' - začátek řádku značí, které virtuální prostředí je právě aktivní + příkaz pro zjištění verze (příkazu pip3)
+- '3. Řádek' - začátek řádku značí, které virtuální prostředí je právě aktivní + příkaz pro zjištění verze
 - '4. Řádek' - verze příkazu pip3
 
 ## Doporučuji vytvoření příkazem conda:
