@@ -10,13 +10,13 @@ Ve Vámi zvoleném IDE, pro vytvoření nového virtuálního prostředí, si ot
 
 > C:\> python -m venv virtualni_prostredi
 - (vytvoření virtuálního prostředí s názvem: virtualni_prostredi)
-...
+
 > C:\> virtualni_prostredi\Scripts\activate
 - (aktivace nového virtuálního prostředí)
-...
+
 > (virtualni_prostredi) C:\>  pip3 --version
 - (začátek řádku značí, které virtuální prostředí je právě aktivní + příkaz pro zjištění verze)
-...
+
 > pip 21.2.3 from ...\lib\site-packages\pip (python 3.10)
 - (verze příkazu pip)
 
@@ -28,12 +28,20 @@ Conda prikazy ve zkratce: [conda cheatsheet](https://docs.conda.io/projects/cond
 
 
 V conda cheatsheet, je jednoduše popsán každý krok:
-> conda create --name virtualní_prostredi2 python - založení virtuálního prostředí
+> conda create --name virtualní_prostredi2 python
 - založení virtuálního prostředí
-> conda activate virtualní_prostredi2 - aktivace virtuálního prostředí
-> conda install beautifulsoup4 - nahrání knihovny
-> conda list - zjištění aktuálních knihoven a jejich verzí
-> conda deactivate - deaktivace
+
+> conda activate virtualní_prostredi2 
+- aktivace virtuálního prostředí
+
+> conda install beautifulsoup4
+- nahrání knihovny
+
+> conda list
+- zjištění aktuálních knihoven a jejich verzí
+
+> conda deactivate
+- deaktivace
   
 # Nahrání souboru s knihovnami (requirements.txt)
 Do nově vytvořeného virtuálního prostředí je potřeba nahrát soubor (requirements.txt), který obsahuje soupis všech knihoven a jejich verzí, které jsou v programu použity.
