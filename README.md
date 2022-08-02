@@ -14,10 +14,10 @@ Ve Vámi zvoleném IDE, pro vytvoření nového virtuálního prostředí, si ot
 3. (virtualni_prostredi) C:\>  pip3 --version
 4. pip 21.2.3 from ...\lib\site-packages\pip (python 3.10)
 
-Řádek 1. - vytvoření virtuálního prostředí s názvem: virtualni_prostredi
-Řádek 2. - aktivace nového virtuálního prostředí
-Řádek 3. - začátek řádku značí, které virtuální prostředí je právě aktivní + příkaz pro zjištění verze (příkazu pip3)
-Řádek 4. - verze příkazu pip3
+- 1. Řádek - vytvoření virtuálního prostředí s názvem: virtualni_prostredi
+- 2. Řádek - aktivace nového virtuálního prostředí
+- 3. Řádek - začátek řádku značí, které virtuální prostředí je právě aktivní + příkaz pro zjištění verze (příkazu pip3)
+- 4. Řádek - verze příkazu pip3
 
 ## Doporučuji vytvoření příkazem conda:
 
@@ -32,14 +32,6 @@ V conda cheatsheet, je jednoduše popsán každý krok:
 - zjištění aktuálních knihoven a jejich verzí: conda list
 - deaktivace: conda deactivate
   
-
-
-
-
-
-
-
-
 
 
 
