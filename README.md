@@ -75,18 +75,18 @@ conda install --file requirements.txt
 
 # Ukázka spuštění:
 
-python3 election_scrapper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102" "Kladno_nazev.csv"
+python3 election_scrapper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103" "Kladno_nazev.csv"
 
-Získávám data z url: "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102"
+Získávám data z url: "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103"
 
-Ukládám do souboru: Beroun_nazev
+Ukládám do souboru: Kladno_nazev
 
 Hotovo, soubor csv je ulozen...
 
 # Část výstupu programu (Kladno.csv)
 
 ```
-code 	location 	registered votes 	envelopes 	valid votes 	Občanská demokratická strana 	Řád národa - Vlastenecká unie 	CESTA ODPOVĚDNÉ SPOLEČNOSTI 	Česká str.sociálně demokrat. 	Radostné Česko 	STAROSTOVÉ A NEZÁVISLÍ 	Komunistická str.Čech a Moravy 	Strana zelených 	ROZUMNÍ-stop migraci,diktát.EU 	Strana svobodných občanů 	Blok proti islam.-Obran.domova 	Občanská demokratická aliance 	Česká pirátská strana 	Unie H.A.V.E.L. 	Referendum o Evropské unii 	TOP 09 	ANO 2011 	Dobrá volba 2016 	SPR-Republ.str.Čsl. M.Sládka 	Křesť.demokr.unie-Čs.str.lid. 	Česká strana národně sociální 	REALISTÉ 	SPORTOVCI 	Dělnic.str.sociální spravedl. 	Svob.a př.dem.-T.Okamura (SPD) 	Strana Práv Občanů
+code 	location 	registered votes 	envelopes 	valid votes 	...
 533173 	Barchovice 	185 	132 	132 	8 	0 	0 	11 	0 	14 	11 	0 	0 	2 	1 	0 	27 	0 	0 	8 	37 	0 	2 	2 	0 	1 	0 	1 	7 	0
 533181 	Bečváry 	822 	492 	491 	41 	0 	1 	32 	0 	94 	48 	3 	3 	3 	0 	0 	34 	0 	0 	10 	167 	0 	3 	6 	0 	2 	0 	2 	41 	1
 533190 	Bělušice 	229 	123 	123 	9 	0 	0 	12 	0 	16 	18 	0 	1 	0 	0 	0 	8 	0 	0 	0 	46 	0 	0 	1 	0 	0 	0 	0 	12 	0
