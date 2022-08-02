@@ -68,7 +68,7 @@ conda install --file requirements.txt
 
 ### Program election_scrapper.py požaduje 2 argumenty ke spuštění
 ```
-1. argument - url daného okresu (např. Kladno): "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102"
+1. argument - url daného okresu (např. Kladno): "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2103"
 
 2. argument - Váš název csv souboru (např. Kladno_nazev): "Kladno_nazev.csv"
 ```
