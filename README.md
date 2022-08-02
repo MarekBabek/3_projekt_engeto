@@ -23,7 +23,9 @@ pip 21.2.3 from ...\lib\site-packages\pip (python 3.10)
 
 ### Doporučuji vytvoření příkazem conda:
 
-Co je conda + instalace: [Zde](https://docs.conda.io/en/latest/miniconda.html).
+Co je conda: [Zde](https://docs.conda.io/en/latest/).
+
+Instalace: [Zde](https://docs.conda.io/en/latest/miniconda.html).
 
 Conda příkazy ve zkratce: [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
 
