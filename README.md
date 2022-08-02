@@ -7,7 +7,7 @@ Doporučuji vytvořit si čisté/nové virtuální prostředí pro tento projekt
 
 ### Vytvoření příkazem pip:
 Ve Vámi zvoleném IDE, pro vytvoření nového virtuálního prostředí, si otevřeme terminál a zadáme následovné:
-
+'''
 > C:\> python -m venv virtualni_prostredi
 - (vytvoření virtuálního prostředí s názvem: virtualni_prostredi)
 
@@ -19,7 +19,7 @@ Ve Vámi zvoleném IDE, pro vytvoření nového virtuálního prostředí, si ot
 
 > pip 21.2.3 from ...\lib\site-packages\pip (python 3.10)
 - (verze příkazu pip)
-
+'''
 ### Doporučuji vytvoření příkazem conda:
 
 Co je conda + instalace: [Zde](https://docs.conda.io/en/latest/miniconda.html).
