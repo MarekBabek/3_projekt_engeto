@@ -16,7 +16,7 @@ Ve Vámi zvoleném IDE, pro vytvoření nového virtuálního prostředí, si ot
 
 ## Doporučuji vytvoření příkazem conda:
 
-Co je conda + instalace: [Instalace](https://docs.conda.io/en/latest/miniconda.html).
+Co je conda + instalace: [Zde](https://docs.conda.io/en/latest/miniconda.html).
 
 Conda prikazy ve zkratce: [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
